@@ -1,2 +1,3 @@
 # arquivos_lab
-Upload dos projetos do laboatório.
+
+Todos os projetos desenvolvidos no laboratório ficarão hospedados aqui.
